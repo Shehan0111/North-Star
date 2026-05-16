@@ -1,2 +1,1 @@
-# North-Star
-DATABASE
+NorthStar Assignment Notebooks 
